@@ -11,6 +11,6 @@ class Solution {
             }
         }
 
-        return new String(stack, 0, top + 1);
+        return new String(stack,0,top+1);
     }
 }
